@@ -21,10 +21,9 @@ At some point in the future
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G-Milzink&theme=dark&background=000000)](https://git.io/streak-stats)
+![Gustaaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Milzink&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Milzink&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **G-Milzink/G-Milzink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
