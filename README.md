@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am someone, who has done some stuff...and achieved some things.
+This is where I will list some of them at some point in the future.
+
 <!--
 **G-Milzink/G-Milzink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
