@@ -24,7 +24,7 @@ currently in the final stage of the Code Institute Full-Stack Developer Course.<
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Milzink&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programming Languages
+### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
