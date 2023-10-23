@@ -20,7 +20,7 @@ currently in the final stage of the Code Institute Full-Stack Developer Course.<
   </a>
 </div>
 
-![Gustaaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Milzink&theme=chartreuse-dark&show_icons=true)
+<!-- ![Gustaaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Milzink&theme=chartreuse-dark&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Milzink&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
