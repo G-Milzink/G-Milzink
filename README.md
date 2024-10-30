@@ -7,7 +7,7 @@
 
 <div id="introduction">
 <h3> Hi there 👋 </h1>
-Welcome to my profile. I am a Junior Full-Stack Web Developer<br>
+Welcome to my profile. I am a Junior Full-Stack Developer<br>
 who has recently graduated from the Code Institute Full-Stack Developer Course.<br>
 <br>
 </div>
