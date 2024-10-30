@@ -8,7 +8,8 @@
 <div id="introduction">
 <h3> Hi there 👋 </h1>
 Welcome to my profile. I am a Junior Full-Stack Developer<br>
-who has recently graduated from the Code Institute Full-Stack Developer Course.<br>
+Who has recently graduated from the Code Institute Full-Stack Developer Course.<br>
+Currently employed as Junior Software Engineer for Risa-IT.<br>
 <br>
 </div>
 
